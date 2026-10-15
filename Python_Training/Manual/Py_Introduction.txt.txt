@@ -1,0 +1,8 @@
+Python Introduction
+
+Python is the high level programming language known for its simple and readable syntax.
+- Allows writing clean code with fewer lines
+- supports multiple paradigms like Object oriented, functional and procedural programming
+- widely used in automation, web development, artificial intelligence, 
+  data analysis and many other fields
+- Dynamically typed and has automatic garbage collection 
